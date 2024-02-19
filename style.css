@@ -1,0 +1,9 @@
+/* Hoja de estilo personalizada*/
+/* CSS: cascading style sheet (hija de estilo en cascada)*/
+
+/* selector de etiqueta*/
+body {
+    background-color: black;
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif
+}
